@@ -2,7 +2,7 @@
     "HELLO": "Hey, I'm so glad you are here!\nI'm the personal bot of Teemu's and I'm here to help you to know him better.\nFirst of all do you prefer that we speak English or Finnish?\n %[English](postback:ENGLISH) %[Finnish](postback:FINNISH)",
     "ENGLISH": "Cool! Let's go with the flow then!",
     "FINNISH": "Mahtavaa! Eiköhän aloiteta sitten.",
-    "I LOVE YOU": "Awh, I love you too!",
+    "I LOVE YOU": "Awh, I love you too!♥️",
     "JON SNOW": "You know nothing.",
     "MOI": "Moikka!",
     "MORO": "Moro moro!",
@@ -10,6 +10,8 @@
     "WHAT IS LIFE": "Food.",
     "Lord Voldemort": "He Who Must Not Be Named..",
     "Lordi Voldemort": "Hän joka jääköön nimeämättä..",
+    "Buzz lightyear": "To infinity, and beyond!",
+    "Reaktor": "whow! Reaktor is proud dad of my older cousin Arska!"
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
