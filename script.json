@@ -2,9 +2,11 @@
     "HELLO": "Hey, I'm so glad you are here!\nI'm the personal bot of Teemu's and I'm here to help you to know him better.\nFirst of all do you prefer that we speak English or Finnish?\n %[English](postback:ENGLISH) %[Finnish](postback:FINNISH)",
     "ENGLISH": "Cool! Let's go with the flow then!",
     "FINNISH": "Mahtavaa! Eiköhän aloiteta sitten.",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "I LOVE YOU": "Awh, I love you too!",
     "JON SNOW": "You know nothing.",
-    "MOI": "No, moikka! 😏",
+    "MOI": "Moikka!",
+    "MORO": "Moro moro!",
+    "WHAT IS LIFE?": "Food.",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back."
 }
