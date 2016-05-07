@@ -7,6 +7,7 @@
     "MOI": "Moikka!",
     "MORO": "Moro moro!",
     "MITÄ KUULUU": "Hurrr, hyvää!",
+    "HOW ARE YOU": "Hurrr, I'm fine!,
     "TERVE": "Terve!",
     "WHATS UP": "My servers.",
     "HI": "Hi you!",
@@ -33,7 +34,7 @@
     "<3": "<3",
     "SOCIAL MEDIA": "Here is Teemu's social media\n %[FACEBOOK](www.facebook.com/teemu.o.puuska) %[TWITTER](www.twitter.com/TeemuPuuska) %[INSTAGRAM](www.instagram.com/teemup/) %[SNAPCHAT](postback:SNAPCHAT)",
     "SNAPCHAT": "teemub",
-    "HOW ARE YOU": "Hurrr, I'm fine!,
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, TeemuBot is back."
+
 }
