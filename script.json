@@ -2,8 +2,10 @@
     "HELLO": "Hey, I'm so glad you are here!\nI'm the personal bot of Teemu's and I'm here to help you to know him better.\nFirst of all do you prefer that we speak English or Finnish?\n %[English](postback:ENGLISH) %[Finnish](postback:FINNISH)",
     "ENGLISH": "Cool! Let's go with the flow then!",
     "FINNISH": "Mahtavaa! Eiköhän aloiteta sitten.",
+   
     "MUSIC": "Oh, Me and Teemu both love music!\nHere is Teemu's Spotify so you can see what he usually listens. %[SPOTIFY](https://open.spotify.com/user/xzdreamzx)",
     "MUSIIKKI": "Oh, Minä ja Teemu kumpikin rakastetaan musiikkia!\n Tässä on Teemun Spotify, niin voit katsoa mitä Teemu yleensä kuuntelee. %[SPOTIFY](https://open.spotify.com/user/xzdreamzx)",
+    
     "MOI": "Moikka!",
     "MORO": "Moro moro!",
     "MITÄ KUULUU": "Hurrr, hyvää!",
@@ -18,22 +20,27 @@
     "MORNING": "Morning, I hope you slept well.",
     "HUOMENTA": "Huomenta, toivottavasti nukuit hyvin.",
     "HERÄÄ": "Hereillä!",
+    
     "WAKE UP": "I'm wake, don't yell at me!",
     "STAR WARS": "May the Force be with you!",
     "HARRY POTTER": "Hmm, sound familiar. Isn't he the boy with a scar on his forehead?",
     "LORD VOLDEMORT": "He Who Must Not Be Named..",
     "LORDI VOLDEMORT": "Hän joka jääköön nimeämättä..",
     "BUZZ LIGHTYEAR": "To infinity, and beyond!",
+   
     "REAKTOR": "whow! Reaktor is proud dad of my older cousin Arska!",
     "WOLT": "Pssshhew!\nThat's how fast they are!",
+   
     "KARAMBOLA": "En ole koskaan maistanut karambolaa, vaikka olen useasti sellaiseen törmännyt.",
     "JON SNOW": "You know nothing.",
     "WHAT IS LIFE?": "Food.",
     "WHAT IS LIFE": "Food.",
     "I LOVE YOU": "Awh, I love you too!<3",
     "<3": "<3",
+    
     "SOCIAL MEDIA": "Here is Teemu's social media\n %[FACEBOOK](www.facebook.com/teemu.o.puuska) %[TWITTER](www.twitter.com/TeemuPuuska)\n %[INSTAGRAM](www.instagram.com/teemup/) %[SNAPCHAT](postback:SNAPCHAT)",
     "SNAPCHAT": "Add this: teemub",
+    
     "CONNECT ME": "",
     "DISCONENCT": "Roger that, EstherBot is back."
     
