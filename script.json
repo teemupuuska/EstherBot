@@ -39,7 +39,7 @@
     "<3": "<3",
     
     "SOCIAL MEDIA": "Here is Teemu's social media\n %[FACEBOOK](www.facebook.com/teemu.o.puuska) %[TWITTER](www.twitter.com/TeemuPuuska)\n %[INSTAGRAM](www.instagram.com/teemup/) %[SNAPCHAT](postback:SNAPCHAT)",
-    "SNAPCHAT": "\n![SNAPCHAT](https://raw.githubusercontent.com/teemupuuska/EstherBot/master/img/snäpetisnäp.png)",
+    "SNAPCHAT": "![SNAP](https://raw.githubusercontent.com/teemupuuska/EstherBot/master/img/snäpetisnäp.png)\n",
     
     "CONNECT ME": "",
     "DISCONENCT": "Roger that, EstherBot is back."
