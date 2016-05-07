@@ -2,23 +2,48 @@
     "HELLO": "Hey, I'm so glad you are here!\nI'm the personal bot of Teemu's and I'm here to help you to know him better.\nFirst of all do you prefer that we speak English or Finnish?\n %[English](postback:ENGLISH) %[Finnish](postback:FINNISH)",
     "ENGLISH": "Cool! Let's go with the flow then!",
     "FINNISH": "Mahtavaa! Eiköhän aloiteta sitten.",
-    "I LOVE YOU": "Awh, I love you too!<3",
+    
     "MUSIC": "Oh, Me and Teemu both love music!\nHere is Teemu's Spotify so you can see what he usually listens. %[SPOTIFY](https://open.spotify.com/user/xzdreamzx)",
     "MUSIIKKI": "Oh, Minä ja Teemu kumpikin rakastetaan musiikkia!\n Tässä on Teemun Spotify, niin voit katsoa mitä Teemu yleensä kuuntelee. %[SPOTIFY](https://open.spotify.com/user/xzdreamzx)",
-    "JON SNOW": "You know nothing.",
+
+    
+    
     "MOI": "Moikka!",
     "MORO": "Moro moro!",
+    "MITÄ KUULUU": "Hurrr, hyvää!",
+    "HOW ARE YOU": "Hurrr, I'm fine!,
+    "WHATS UP": "My servers.",
+    "HI": "Hi you!",
+    "HEY": "Well hey.",
+    "SUP": "Nothing much, just botting.",
+    "GOOD MORNING": "Yawn!\nGood morning to you too.",
+    "HYVÄÄ HUOMENTA": "Yawn!\nHyvää huomenta sinullekkin.",
+    "MORNING": "Morning, I hope you slept well.",
+    "HUOMENTA": "Huomenta, toivottavasti nukuit hyvin. ",
     "HERÄÄ": "Hereillä!",
     "WAKE UP": "I'm wake, don't yell at me!",
+    
     "STAR WARS": "May the Force be with you!",
-    "WHAT IS LIFE?": "Food.",
-    "WHAT IS LIFE": "Food.",
     "HARRY POTTER": "Hmm, sound familiar. Isn't he the boy with a scar on his forehead?",
     "LORD VOLDEMORT": "He Who Must Not Be Named..",
     "LORDI VOLDEMORT": "Hän joka jääköön nimeämättä..",
     "BUZZ LIGHTYEAR": "To infinity, and beyond!",
+    
     "REAKTOR": "whow! Reaktor is proud dad of my older cousin Arska!",
+    "WOLT": "Pssshhew!\nThat's how fast they are!/nPs. If you haven't registered already, register with this code: iqWuz <3",
+    
+    
     "KARAMBOLA": "En ole koskaan maistanut karambolaa, vaikka olen useasti sellaiseen törmännyt.",
+    "JON SNOW": "You know nothing.",
+    "I LOVE YOU": "Awh, I love you too!<3",
+    "WHAT IS LIFE?": "Food.",
+    "WHAT IS LIFE": "Food.",
+    "<3": "<3",
+    
+    
+    "SOCIAL MEDIA": "Here is Teemu's social media\n %[FACEBOOK](www.facebook.com/teemu.o.puuska) %[TWITTER](www.twitter.com/TeemuPuuska) %[INSTAGRAM](www.instagram.com/teemup/) %[SNAPCHAT](postback:SNAPCHAT)",
+    "SNAPCHAT": "teemub",
+    
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, TeemuBot is back."
 }
