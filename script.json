@@ -8,6 +8,8 @@
     "MORO": "Moro moro!",
     "MITÄ KUULUU": "Hurrr, hyvää!",
     "TERVE": "Terve!",
+    "CONNECT ME": "",
+    "DISCONENCT": "Roger that, EstherBot is back.",
     "WHATS UP": "My servers.",
     "HI": "Hi you!",
     "HEY": "Well hey.",
@@ -33,8 +35,6 @@
     "<3": "<3",
     "SOCIAL MEDIA": "Here is Teemu's social media\n %[FACEBOOK](www.facebook.com/teemu.o.puuska) %[TWITTER](www.twitter.com/TeemuPuuska) %[INSTAGRAM](www.instagram.com/teemup/) %[SNAPCHAT](postback:SNAPCHAT)",
     "SNAPCHAT": "teemub",
-    "HOW ARE YOU": "Hurrr, I'm fine!,
-    "CONNECT ME": "",
-    "DISCONENCT": "Roger that, EstherBot is back.",
+    "HOW ARE YOU": "Hurrr, I'm fine!
     
 }
