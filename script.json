@@ -1,7 +1,8 @@
 {
     "HELLO": "Hey, I'm so glad you are here!\nI'm the personal bot of Teemu's and I'm here to help you to know him better.\nFirst of all do you prefer that we speak English or Finnish?\n %[English](postback:ENGLISH) %[Finnish](postback:FINNISH)",
     "ENGLISH": "Cool! Let's go with the flow then!",
-    "FINNISH": "Mahtavaa! Eiköhän aloiteta sitten.",
+    "FINNISH": "Mahtavaa! Eiköhän aloiteta sitten.\nMistä haluat kuulla ensimmäiseksi? %[Elämästä](postback:ELÄMÄSTÄ) %[Työurasta](postback:TYÖURASTA)\n %[Koulutuksesta](postback:KOULUTUS) %[Boteista](postback:BOTLIFE)",
+    
    
     "MUSIC": "Oh, Me and Teemu both love music!\nHere is Teemu's Spotify so you can see what he usually listens. %[SPOTIFY](https://open.spotify.com/user/xzdreamzx)",
     "MUSIIKKI": "Oh, Minä ja Teemu kumpikin rakastetaan musiikkia!\n Tässä on Teemun Spotify, niin voit katsoa mitä Teemu yleensä kuuntelee. %[SPOTIFY](https://open.spotify.com/user/xzdreamzx)",
@@ -12,6 +13,7 @@
     "HOW ARE YOU": "Hurrr, I'm fine!",
     "TERVE": "Terve!",
     "WHATS UP": "My servers.",
+    "WHAT UP": "My servers.",
     "HI": "Hi you!",
     "HEY": "Well hey.",
     "SUP": "Nothing much, just botting.",
@@ -20,6 +22,7 @@
     "MORNING": "Morning, I hope you slept well.",
     "HUOMENTA": "Huomenta, toivottavasti nukuit hyvin.",
     "HERÄÄ": "Hereillä!",
+    "HERÄTYS": "Hurrrr, täällä ollaan!",
     
     "WAKE UP": "I'm wake, don't yell at me!",
     "STAR WARS": "May the Force be with you!",
