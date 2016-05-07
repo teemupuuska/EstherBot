@@ -33,7 +33,7 @@
     "I LOVE YOU": "Awh, I love you too!<3",
     "<3": "<3",
     "SOCIAL MEDIA": "Here is Teemu's social media\n %[FACEBOOK](www.facebook.com/teemu.o.puuska) %[TWITTER](www.twitter.com/TeemuPuuska)\n %[INSTAGRAM](www.instagram.com/teemup/) %[SNAPCHAT](postback:SNAPCHAT)",
-    "SNAPCHAT": "teemub",
+    "SNAPCHAT": "Add this: teemub",
     "CONNECT ME": "",
     "DISCONENCT": "Roger that, EstherBot is back."
     
