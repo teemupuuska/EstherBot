@@ -31,10 +31,11 @@
     "WHAT IS LIFE?": "Food.",
     "WHAT IS LIFE": "Food.",
     "<3": "<3",
-    "CONNECT ME": "",
-    "DISCONNECT": "Roger that, TeemuBot is back.",
     "SOCIAL MEDIA": "Here is Teemu's social media\n %[FACEBOOK](www.facebook.com/teemu.o.puuska) %[TWITTER](www.twitter.com/TeemuPuuska) %[INSTAGRAM](www.instagram.com/teemup/) %[SNAPCHAT](postback:SNAPCHAT)",
     "SNAPCHAT": "teemub",
-    "HOW ARE YOU": "Hurrr, I'm fine!
+    "HOW ARE YOU": "Hurrr, I'm fine!,
+    
+    "CONNECT ME": "",
+    "DISCONNECT": "Roger that, TeemuBot is back."
     
 }
