@@ -27,6 +27,8 @@
     "WOLT": "Pssshhew!\nThat's how fast they are!",
     "KARAMBOLA": "En ole koskaan maistanut karambolaa, vaikka olen useasti sellaiseen törmännyt.",
     "JON SNOW": "You know nothing.",
+    "WHAT IS LIFE?": "Food.",
+    "WHAT IS LIFE": "Food.",
     "I LOVE YOU": "Awh, I love you too!<3",
     "<3": "<3",
     "SOCIAL MEDIA": "Here is Teemu's social media\n %[FACEBOOK](www.facebook.com/teemu.o.puuska) %[TWITTER](www.twitter.com/TeemuPuuska) %[INSTAGRAM](www.instagram.com/teemup/) %[SNAPCHAT](postback:SNAPCHAT)",
@@ -34,7 +36,5 @@
     "HOW ARE YOU": "Hurrr, I'm fine!,
     "CONNECT ME": "",
     "DISCONENCT": "Roger that, EstherBot is back.",
-    "WHAT IS LIFE?": "Food.",
-    "WHAT IS LIFE": "Food."
     
 }
