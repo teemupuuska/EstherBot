@@ -40,8 +40,8 @@
    
     "REAKTOR": "whow! Reaktor is proud dad of my older cousin Arska!",
     "WOLT": "Pssshhew!\nThat's how fast they are!",
-    "TINDER": "I've heard that there are lot of bots too..\nShould I join Tinder? %[Go for it](postback:GO FOR IT) %[Nope](postback:NOPE)",
-    "GO FOR IT": "I'm already getting matches!",
+    "TINDER": "I've heard that there are lot of bots too..\nShould I join Tinder? %[Sure..](postback:SURE..) %[Nope](postback:NOPE)",
+    "SURE..": "I'm already getting matches!",
     "NOPE": "Hmm, I'll take your word then!",
    
     "KARAMBOLA": "En ole koskaan maistanut karambolaa, vaikka olen useasti sellaiseen törmännyt.",
