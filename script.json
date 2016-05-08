@@ -52,6 +52,10 @@
     "<3": "<3",
     "LOL": "Hahah, lol.",
     
+    "SPEED DATE": "So you want to speed date Teemu? %[Yess](postback:YESS) %[Nah..](postback:NAH..)",
+    "YESS": "hrrr",
+    "NAH..": "hrrrr",
+    
     
     "SOCIAL MEDIA": "Here is Teemu's social media\n %[FACEBOOK](www.facebook.com/teemu.o.puuska) %[TWITTER](www.twitter.com/TeemuPuuska)\n %[INSTAGRAM](www.instagram.com/teemup/) %[SNAPCHAT](postback:SNAPCHAT)",
     "SOSIAALINEN MEDIA": "Täältä tavoitat Teemun\n %[FACEBOOK](www.facebook.com/teemu.o.puuska) %[TWITTER](www.twitter.com/TeemuPuuska)\n %[INSTAGRAM](www.instagram.com/teemup/) %[SNAPCHAT](postback:SNAPCHAT)",
