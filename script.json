@@ -40,7 +40,7 @@
    
     "REAKTOR": "whow! Reaktor is proud dad of my older cousin Arska!",
     "WOLT": "Pssshhew!\nThat's how fast they are!",
-    "TINDER": "I've heard that there are lot of bots too..\nShould I join Tinder? %[GO FOR IT](postback:YESTINDER) %[NOPE](postback:NOPETINDER)",
+    "TINDER": "I've heard that there are lot of bots too..\nShould I join Tinder? %[Go for it](postback:YESTINDER) %[Nope](postback:NOPETINDER)",
     "YESTINDER": "I'm already getting matches!",
     "NOPETINDER": "Hmm, I'll take your word then!",
    
