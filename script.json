@@ -40,6 +40,9 @@
    
     "REAKTOR": "whow! Reaktor is proud dad of my older cousin Arska!",
     "WOLT": "Pssshhew!\nThat's how fast they are!",
+    "TINDER": "I've heard that there are lot of bots too..\nShould I join Tinder? %[GO FOR IT](postback:YESTINDER) %[NOPE](postback:NOPETINDER)",
+    "YESTINDER": "I'm already getting matches!",
+    "NOPETINDER": "Hmm, I'll take your word then!",
    
     "KARAMBOLA": "En ole koskaan maistanut karambolaa, vaikka olen useasti sellaiseen törmännyt.",
     "JON SNOW": "You know nothing.",
