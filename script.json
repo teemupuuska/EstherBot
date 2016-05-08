@@ -52,8 +52,8 @@
     "<3": "<3",
     "LOL": "Hahah, lol.",
     
-    "SPEED DATE": "So you want to speed date Teemu? %[Yess](postback:YESS) %[Nah..](postback:NAH..)",
-    "YESS": "hrrr",
+    "SPEED DATE": "So you want to speed date Teemu? %[Umm, yeah?](postback:UMM, YEAH?) %[Nah..](postback:NAH..)",
+    "UMM, YEAH?": "hrrr",
     "NAH..": "hrrrr",
     
     
