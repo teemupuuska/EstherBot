@@ -50,7 +50,7 @@
     "WHAT IS LIFE": "Food.",
     "I LOVE YOU": "Awh, I love you too!<3",
     "<3": "<3",
-    "LOL": "Hahah, lol." or "lol.",
+    "LOL": "Hahah, lol." "lol.",
     
     "SPEED DATE": "So you want to speed date Teemu? %[Yeah](postback:YEAH) %[Nah..](postback:NAH..)",
     "YEAH": "hrrr",
